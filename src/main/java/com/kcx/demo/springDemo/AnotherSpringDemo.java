@@ -1,6 +1,6 @@
 package com.kcx.demo.springDemo;
 
-public class SpringDemo {
+public class AnotherSpringDemo {
 
 	private String message;
 	
@@ -13,11 +13,11 @@ public class SpringDemo {
 	}
 	
 	public void init() {
-		System.out.println("springDemo inits now ");
+		System.out.println("AnotherspringDemo inits now ");
 	}
 	
 	public void destroy() {
-		System.out.println("springDemo destroys now ");
+		System.out.println("AnotherspringDemo destroys now ");
 	}
 
 }
